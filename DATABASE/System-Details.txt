@@ -1,0 +1,22 @@
+this is client's documents & agreements management system it is able to store possible(many-more) agreements and its related document 
+
+LOGIN CREDENTIALS
+-----------------
+username: Admin
+password: admin250
+
+SYSTEM'S ABLITY
+---------------
+1)user can add a new document
+2) user can edit and delete existing document
+3)all uploaded documents can be viewed with its related agreements
+4)a new agreement can be added on its related document
+5)all agreements can be viewed with its related docoments
+6)agreements can be deleted and edited
+
+IT'S CRITERIAS
+--------------
+-document deleted at the same time with its related agreement
+-agreement deleted at the same time with its attached document
+-index page ar dashboard shows all recently informations
+-in setting user can update system name,changing password and user name.
